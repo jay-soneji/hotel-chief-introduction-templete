@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+    align-items: center;
+}
+
+
+h3 {
+    color: orangered;
+    font-size: 20px;
+    padding: 10px;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-color: orangered;
+    text-underline-offset: 13px;
+}
+
+p {
+    padding: 25px;
+}
+
+.box {
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+
+.boxone {
+    height: 500px;
+    width: 450px;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+.boxone p {
+    margin-top: 50px;
+}
+
+.boxone img {
+    height: 300px;
+    width: 450px;
+}
+
+.boxone h4 {
+    color: orangered;
+}
+
+.text {
+    text-align: center;
+    padding-top: 10px;
+    background-color: white;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 100px;
+    height: 70px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 5px 10px 18px #888888;
+
+}
+
+.texttwo {
+    text-align: center;
+    padding-top: 10px;
+    background-color: white;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 100px;
+    height: 70px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 5px 10px 18px #888888;
+
+}
+
+.textthree {
+    text-align: center;
+    padding-top: 10px;
+    background-color: white;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 100px;
+    height: 70px;
+    width: 250px;
+    border: 1px solid black;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+.boxtwo {
+    height: 500px;
+    width: 450px;
+    box-shadow: 5px 10px 18px #888888;
+}
+
+.boxtwo p {
+    margin-top: 50px;
+}
+
+.boxtwo h4 {
+    color: orangered;
+}
+
+.boxtwo img {
+    height: 300px;
+    width: 450px;
+}
+
+.boxthree {
+    height: 500px;
+    width: 450px;
+    box-shadow: 5px 10px 18px #888888;
+
+}
+
+.boxthree p {
+    margin-top: 50px;
+}
+
+.boxthree h4 {
+    color: orangered;
+}
+
+.boxthree img {
+    height: 300px;
+    width: 450px;
+}
+
+.icons {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+.icons a i {
+    margin: 10px;
+}
